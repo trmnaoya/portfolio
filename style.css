@@ -138,6 +138,10 @@ nav ul li a i {
     margin-bottom: 60px;
 }
 
+.works-content {
+    margin-bottom: 20px;
+}
+
 .works-wrapper img {
     display: block;
     width: 100%;
@@ -277,10 +281,6 @@ footer p {
     
     .table-level {
         font-size: 15px;
-    }
-
-    .works-content:first-child {
-        margin-bottom: 20px;
     }
 
     .works-wrapper dt {
